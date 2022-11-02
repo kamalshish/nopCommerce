@@ -1,0 +1,122 @@
+10/25/2022 11:00:13 PM: INFO: ***************** Test_001_Login ******************
+10/25/2022 11:00:13 PM: INFO: ***************** verifying homepage title ******************
+10/25/2022 11:00:33 PM: INFO: ***************** homepage title test case passed ******************
+10/25/2022 11:01:52 PM: INFO: ***************** Test_002_DDT ******************
+10/25/2022 11:01:52 PM: INFO: ***************** verifying login DDT test case ******************
+10/25/2022 11:02:20 PM: INFO: ******* Passed *****
+10/25/2022 11:04:41 PM: INFO: ***************** Test_002_DDT ******************
+10/25/2022 11:04:41 PM: INFO: ***************** verifying login DDT test case ******************
+10/25/2022 11:05:08 PM: INFO: ******* Failed 2 *****
+10/25/2022 11:06:03 PM: INFO: ***************** Test_002_DDT ******************
+10/25/2022 11:06:03 PM: INFO: ***************** verifying login DDT test case ******************
+10/25/2022 11:06:31 PM: INFO: ******* Passed 1 *****
+10/25/2022 11:07:34 PM: INFO: ***************** Test_002_DDT ******************
+10/25/2022 11:07:34 PM: INFO: ***************** verifying login DDT test case ******************
+10/25/2022 11:08:10 PM: INFO: ******* Passed 1 *****
+10/26/2022 01:17:41 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 01:17:41 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 01:18:16 PM: INFO: ******* Passed 1 *****
+10/26/2022 01:26:29 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 01:26:29 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 01:27:01 PM: INFO: ******* Passed 1 *****
+10/26/2022 01:35:38 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 01:35:38 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 01:38:13 PM: INFO: ******* Passed 1 *****
+10/26/2022 01:38:54 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 01:38:54 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 01:39:15 PM: INFO: ******* Passed 1 *****
+10/26/2022 01:47:19 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 01:47:19 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 01:47:39 PM: INFO: ******* Passed 1 *****
+10/26/2022 01:53:59 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 01:53:59 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 01:54:15 PM: INFO: ******* Passed 1 *****
+10/26/2022 01:54:25 PM: INFO: ******* Passed 2 *****
+10/26/2022 01:58:17 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 01:58:17 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 01:58:35 PM: INFO: ******* Passed 1 *****
+10/26/2022 01:58:44 PM: INFO: ******* Passed 2 *****
+10/26/2022 02:11:13 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 02:11:13 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 02:12:01 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 02:12:01 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 02:12:23 PM: INFO: ******* Passed 1 *****
+10/26/2022 02:12:31 PM: INFO: ******* Passed 2 *****
+10/26/2022 02:12:39 PM: INFO: ******* Passed 2 *****
+10/26/2022 02:12:45 PM: INFO: ******* Passed 2 *****
+10/26/2022 02:12:45 PM: INFO: ***************** login DDT test case passed ******************
+10/26/2022 02:13:02 PM: INFO: ***************** End of login DDT test ******************
+10/26/2022 02:13:02 PM: INFO: ***************** Completed Test_002_DDT ******************
+10/26/2022 02:26:07 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 02:26:07 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 02:27:55 PM: INFO: ***************** Test_002_DDT ******************
+10/26/2022 02:27:55 PM: INFO: ***************** verifying login DDT test case ******************
+10/26/2022 02:28:17 PM: INFO: ******* Passed 1 *****
+10/26/2022 02:28:26 PM: INFO: ******* Passed 2 *****
+10/26/2022 02:28:32 PM: INFO: ******* Passed 2 *****
+10/26/2022 02:28:38 PM: INFO: ******* Passed 2 *****
+10/26/2022 02:28:38 PM: INFO: ***************** login DDT test case passed ******************
+10/26/2022 02:28:54 PM: INFO: ***************** End of login DDT test ******************
+10/26/2022 02:28:54 PM: INFO: ***************** Completed Test_002_DDT ******************
+10/31/2022 07:30:39 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 07:30:49 PM: INFO: ************* Login succesful **********
+10/31/2022 07:30:49 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 07:38:45 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 07:39:04 PM: INFO: ************* Login succesful **********
+10/31/2022 07:39:04 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 07:44:14 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 07:44:23 PM: INFO: ************* Login succesful **********
+10/31/2022 07:44:23 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 07:58:53 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 07:59:02 PM: INFO: ************* Login succesful **********
+10/31/2022 07:59:02 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 08:02:26 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 08:02:34 PM: INFO: ************* Login succesful **********
+10/31/2022 08:02:34 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 08:03:56 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 08:04:03 PM: INFO: ************* Login succesful **********
+10/31/2022 08:04:03 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 08:04:08 PM: INFO: ************* Providing customer info **********
+10/31/2022 08:07:56 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 08:08:06 PM: INFO: ************* Login succesful **********
+10/31/2022 08:08:06 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 08:08:10 PM: INFO: ************* Providing customer info **********
+10/31/2022 08:10:03 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 08:10:15 PM: INFO: ************* Login succesful **********
+10/31/2022 08:10:15 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 08:10:24 PM: INFO: ************* Providing customer info **********
+10/31/2022 08:15:12 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 08:15:21 PM: INFO: ************* Login succesful **********
+10/31/2022 08:15:21 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 08:15:25 PM: INFO: ************* Providing customer info **********
+10/31/2022 08:21:45 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 08:21:54 PM: INFO: ************* Login succesful **********
+10/31/2022 08:21:54 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 08:23:39 PM: INFO: ************* Test_003_AddCustomer **********
+10/31/2022 08:23:47 PM: INFO: ************* Login succesful **********
+10/31/2022 08:23:47 PM: INFO: ******* Starting Add Customer Test **********
+10/31/2022 08:23:51 PM: INFO: ************* Providing customer info **********
+11/01/2022 02:49:04 PM: INFO: ************* SearchCustomerByEmail_004 **********
+11/01/2022 02:49:14 PM: INFO: ************* Login succesful **********
+11/01/2022 02:49:14 PM: INFO: ******* Starting Search Customer By Email **********
+11/01/2022 02:49:33 PM: INFO: ************* SearchCustomerByEmail_004 **********
+11/01/2022 02:49:42 PM: INFO: ************* Login succesful **********
+11/01/2022 02:49:42 PM: INFO: ******* Starting Search Customer By Email **********
+11/01/2022 02:52:51 PM: INFO: ************* Test_003_AddCustomer **********
+11/01/2022 02:53:00 PM: INFO: ************* Login succesful **********
+11/01/2022 02:53:00 PM: INFO: ******* Starting Add Customer Test **********
+11/01/2022 02:53:03 PM: INFO: ************* Providing customer info **********
+11/01/2022 02:55:12 PM: INFO: ************* SearchCustomerByName_005 **********
+11/01/2022 02:55:22 PM: INFO: ************* Login succesful **********
+11/01/2022 02:55:22 PM: INFO: ******* Starting Search Customer By Name **********
+11/01/2022 02:55:25 PM: INFO: ************* searching customer by Name **********
+11/01/2022 02:56:20 PM: INFO: ************* SearchCustomerByEmail_004 **********
+11/01/2022 02:56:29 PM: INFO: ************* Login succesful **********
+11/01/2022 02:56:29 PM: INFO: ******* Starting Search Customer By Email **********
+11/01/2022 02:56:33 PM: INFO: ************* searching customer by emailID **********
+11/01/2022 04:26:59 PM: INFO: ************* Test_003_AddCustomer **********
+11/01/2022 04:27:10 PM: INFO: ************* Login succesful **********
+11/01/2022 04:27:10 PM: INFO: ******* Starting Add Customer Test **********
+11/01/2022 04:27:15 PM: INFO: ************* Providing customer info **********
+11/01/2022 04:27:23 PM: INFO: ***************** verifying login test case ******************
+11/01/2022 04:27:31 PM: INFO: ***************** login test case passed ******************
